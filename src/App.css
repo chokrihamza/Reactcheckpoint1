@@ -1,0 +1,43 @@
+body{
+    background-color:#282c34;
+}
+
+.jumbo{
+    background-color:#20232a;
+    color: white;
+    height: 200px;
+    font-family:  -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    padding-top: 0%;
+    text-align: center;
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    z-index: 1;
+}
+
+
+.react,.angular,.vue{
+    color:#61dafb;
+}
+.react:hover{
+ color: lightblue;
+}
+.angular:hover{
+    color: red; 
+}
+.vue:hover{
+    color:green;
+}
+
+.form{
+    margin-top:200px;
+    background-color:white;
+    padding: 1%;
+    padding-top:30px;
+    border-radius:3%;
+}
+.cards{
+    padding-top: 30px;
+    background-color:#20232a;
+    border-radius:3%;
+}
